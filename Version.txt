@@ -1,0 +1,27 @@
+**************Display Your Cached Tweets Using PHP and OAuth
+
+Version 1.3 August 23rd 2013
+Rewritten parts and grouped into smaller functions
+Added seperate keys.php file to add your keys.
+Change options for retweets and replies in keys file
+Add your own time in minutes
+If the twitter API is down it will not cache the data and will continue to use the previous json file. 
+
+Version 1.2 July 2nd 2013
+Updated TmhOAuth script to latest version
+Minor bug fix.  Added missing apostrophe in display_tweets function. Thanks to evanrose for the spot 
+
+Version 1.1 March 14th 2013
+Updated TmhOAuth Script to latest version
+Minor Bug fix. If style is left blank no date will be displayed
+Added 'default' to display time in following format: March 14 2013
+
+
+Version 1.0
+Released January 19th 2013
+
+Any Problems??
+
+Email me tracy@worldoweb.co.uk
+Twitter:  ridgey28 or worldoweb
+Facebook: ridgey28
