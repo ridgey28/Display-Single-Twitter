@@ -6,7 +6,7 @@ PHP Script to Display Single Twitter Feed on your Website
 <h2>Prequisites</h2>
 
   <ul><li>You should already have a consumer key, consumer secret, access token and access token secret.
-  If not please go to http://www.worldoweb.co.uk/2012/create-a-twitter-app-for-the-new-api for a little guide into creating the Twitter App</li>.
+  If not please go to http://www.worldoweb.co.uk/2012/create-a-twitter-app-for-the-new-api for a little guide into creating the Twitter App</li>
 <li>PHP Server with CURL – I have tested it using PHP 5.3+</li>
 <li>A little knowledge of PHP and CSS are beneficial but not essential.</li>
 </ul>
